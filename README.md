@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @makhatemakhate
 - 🌱 I’m interested in health informatics
 - 👀 I keep personal projects as private repos
-- 💞️ I’m looking to collaborate on FHIR
 - 📫 I'm available on all socials
 
 <!---
